@@ -8,7 +8,7 @@
 
 [Assignment B]  Kernels problem;
 
-chosose the max score
+choose the max score
 
 #### examination: 
 
