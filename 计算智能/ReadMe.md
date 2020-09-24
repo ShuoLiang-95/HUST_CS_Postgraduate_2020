@@ -31,3 +31,6 @@ http://www.ualberta.ca/~szepesva/papers/RLAlgslnMDPs.pdf
 
 ### 参考课程
 https://www.davidsilver.uk/teaching/
+
+### 相关博客
+https://zhuanlan.zhihu.com/p/37690204
